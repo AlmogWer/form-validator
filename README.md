@@ -12,7 +12,7 @@ Simple client side form validation. Check required, length, email and password m
 
 ## Links
 
-- [Repo](https://github.com/AlmogWer/form-validator "Almogwerfood Repo")
+- [Repo](https://github.com/AlmogWer/form-validator "form-validator Repo")
 - [Live](https://almogwer.github.io/form-validator/ "Live View")
 
 ## Screenshots
